@@ -13,7 +13,15 @@ export default {
         extend: {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                cairo: ['cairo', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                "color-bg": "#F4F7FB",
+                "color-primary": "#1D3557",
+                "color-secondary": "#E3EDF3",
+                "color-title": "#000000",
+                "color-sub-title": "#2E496F",
+            }
         },
     },
 
