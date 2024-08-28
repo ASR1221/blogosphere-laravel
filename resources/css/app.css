@@ -4,6 +4,18 @@
 
 @layer base {
 
+   h1, h2, h3, h4, h5, h6 {
+      @apply text-color-title
+   }
+
+   p, span, li {
+      @apply text-color-title
+   }
+
+   html, body {
+      @apply bg-color-bg
+   }
+
    @font-face {
      font-family: 'cairo';
      font-weight: 400;
