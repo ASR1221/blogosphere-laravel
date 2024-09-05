@@ -20,7 +20,8 @@ export default {
                 "color-primary": "#1D3557",
                 "color-secondary": "#E3EDF3",
                 "color-title": "#000000",
-                "color-sub-title": "#2E496F",
+                "color-sub-title": "#1D3557",
+                "color-text-light": "#2E496F",
             }
         },
     },
