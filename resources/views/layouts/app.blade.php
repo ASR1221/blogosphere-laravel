@@ -24,7 +24,7 @@
             @endisset
 
             <!-- Page Content -->
-            <main class=" mx-auto max-w-[720px] px-4">
+            <main class=" mx-auto max-w-[768px] px-4">
                 {{ $slot }}
             </main>
 
